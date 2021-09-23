@@ -1,4 +1,4 @@
-def park():
+def draw_park():
     print("""
           &&& &&  & &&
       && &\/&\|& ()|/ @, &&
